@@ -3,6 +3,9 @@ Atom language package for the Multi Language Format
 
 (MLF repo coming soon)
 
+### Supported Languages
+While a major focal point of the MLF interpretor is the fact that one can add as many languages as one wishes, this language pack adds support for python and YAML
+
 ### About MLF
 MLF is currently utilized in-house by Spellcast Studios in Unity3D for a variety of uses, such as scripting, quests and dialog. Since the key feature of MLF is simply to be a human readable wrapper for other languages, it allows different formats to be in the same file, with different tags and id's for the engine to read.
 
